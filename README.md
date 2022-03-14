@@ -4,5 +4,5 @@ A simple app that displays android concepts and information.
 - ConstraintLayouts.
 - Activities.
 - Views and Widgets.
-- clickListeners and Handlers.
+- Click Listeners and Handlers.
 - Kotlin.
